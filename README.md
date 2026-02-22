@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryadata&label=Profile%20views&color=0e75b6&style=flat" alt="shauryadata" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryadata" alt="shauryadata" /></a> </p>
-
 - 🔭 I’m currently working on **Reinforcement Learning-Based Renewable Energy Dispatch Systems**
 
 - 🌱 I’m currently learning **Advanced RL, Casual Inference in ML, MLOps &scalable ML systems**
