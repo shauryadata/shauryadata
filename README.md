@@ -23,7 +23,7 @@ I use AI coding assistants as part of my workflow, the way most engineers do now
 | Project | What it is | Link |
 |---|---|---|
 | **Selective RAG with Conformal Abstention** | Retrieval-augmented generation that scores its own confidence and abstains on low-confidence queries (AUROC 0.8515, 4.27&times; reliable-coverage gain) | Code *(publishing soon)* |
-| **VAULTS** | Full-stack, LLM-powered portfolio-intelligence app &mdash; Next.js · FastAPI · Anthropic API · Redis | [Live demo](https://vaults-tracker.vercel.app?demo=true) |
+| **VAULTS** | Full-stack, LLM-powered portfolio-intelligence app &mdash; Next.js · TypeScript · Anthropic API · Upstash Redis | [Live demo](https://vaults-tracker.vercel.app?demo=true) |
 | **AI Command Center** | LLM-powered coaching & briefing app with agentic workflows and retrieval over user data | [Live demo](https://fitness-command-center.vercel.app/demo) |
 | **FairLens** | Algorithmic-bias audit across 800k+ U.S. mortgage records (HMDA) with fairness metrics, shipped as a web app | [Live](https://fairlensweb.vercel.app) |
 | **Music Recommendation Ensemble** | 88-model stacking ensemble (PySpark ALS + LightGBM LambdaRank) on 12.4M ratings &mdash; Kaggle 0.930 | [Leaderboard](https://www.kaggle.com/competitions/music-recommender-2026s/leaderboard) |
