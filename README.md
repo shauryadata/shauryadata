@@ -60,6 +60,16 @@ I use AI coding assistants as part of my workflow, the way most engineers do now
 
 **Focus areas** &nbsp;LLM application development · RAG · agentic workflows · embeddings & vector search · conformal / selective prediction · recommender systems · time-series forecasting · fairness-constrained ML
 
+## Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/8fe61b59-8bf2-4263-8a72-9c7fdbe1ea75/public_url">
+    <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer &ndash; Associate" width="120" height="120">
+  </a>
+</p>
+
+**AWS Certified Machine Learning Engineer - Associate (Sep 2026)** &mdash; Amazon Web Services Training and Certification
+
 ## Currently
 
 Building confidence-aware LLM systems and applied-ML research oriented toward high-stakes and sustainability-focused decision problems (energy, fairness, reliability).
