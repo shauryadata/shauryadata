@@ -29,7 +29,7 @@ I use AI coding assistants as part of my workflow, the way most engineers do now
 | **Music Recommendation Ensemble** | 88-model stacking ensemble (PySpark ALS + LightGBM LambdaRank) on 12.4M ratings &mdash; Kaggle 0.930 | [Leaderboard](https://www.kaggle.com/competitions/music-recommender-2026s/leaderboard) |
 | **Cost-Sensitive HAR** | Six classifiers built from scratch in NumPy with a Chow reject option &mdash; 94% accuracy at 2.7% abstention | Code |
 
-<sub>Several production apps are kept private for security; live demos are linked above and code is available on request.</sub>
+<sub>Several production apps are kept private for security. Live demos are linked above and code is available on request.</sub>
 
 ## Research & Publications
 
